@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Data Analyst with 5+ years of experience delivering impactful data-driven solutions. | Proven ability to analyze large datasets and communicate findings effectively. | Committed to helping organizations achieve their strategic goals through data analysis.
+💡 &nbsp; Five years of data analytics in agile, strong background in data builds, automation and visualisation. Delivering insights to enhance business quality and performance. Empowering strategic decision- making and improving organizational eﬃciency.
 
 <img alt="Night Coding" src="https://github.com/TinaMiksic/tinamiksic.github.io/blob/main/coding-girl.gif?raw=true" align="center"/>
 
