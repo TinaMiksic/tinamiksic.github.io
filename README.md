@@ -6,7 +6,7 @@
 
 💡 &nbsp; Data Analyst with 5+ years of experience delivering impactful data-driven solutions. | Proven ability to analyze large datasets and communicate findings effectively. | Committed to helping organizations achieve their strategic goals through data analysis.
 
-<img alt="Night Coding" src="https://camo.githubusercontent.com/b8741fc5a5bc4415036edfb97fdbe367f22d66d8c501effd1c7c69aa72834818/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966" align="center"/>
+<img alt="Night Coding" src="https://github.com/TinaMiksic/tinamiksic.github.io/blob/main/coding-girl.gif?raw=true" align="center"/>
 
 ### 🛠 &nbsp; Technologies
 
