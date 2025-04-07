@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Five years of data analytics in agile, strong background in data builds, automation and visualisation. Delivering insights to enhance business quality and performance. Empowering strategic decision- making and improving organizational eﬃciency.
+💡 &nbsp; Five years of data analytics in agile, strong background in data builds, automation and visualisation. Delivering insights to enhance business quality/performance, empowering strategic decision making, and improving organizational eﬃciency.
 
 <img alt="Night Coding" src="https://github.com/TinaMiksic/tinamiksic.github.io/blob/main/coding-girl.gif?raw=true" align="center"/>
 
